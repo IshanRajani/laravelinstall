@@ -1,3 +1,4 @@
+
 Step 1:
 
 Goto www.getcomposer.org website to install composer. 
@@ -23,6 +24,17 @@ composer global require "laravel/installer"
 After it.. you can create a laravel project using below mentioned command.
 
 
+Step 3:
+
+Create create laravel projects using following command.
+
+composer create-project laravel/laravel - prefer -dist
+
+Step 4:
+
+Below code will start the Laravel service. 
+
+php artisan serve
 
 
 
