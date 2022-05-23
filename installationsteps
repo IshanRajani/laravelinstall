@@ -1,0 +1,16 @@
+Step 1:
+
+Goto www.getcomposer.org website to install composer. 
+
+Click on Download.
+
+Download and run Composer-Setup.exe
+
+Install the composer.
+
+After installation, to verify if it is installed go to command prompt and run command "composer -V" to check the version of composer. Here in -V the letter V is capital.
+
+Woww... Composer is available now.
+
+Step 2:
+
