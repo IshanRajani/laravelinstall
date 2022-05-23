@@ -14,3 +14,15 @@ Woww... Composer is available now.
 
 Step 2:
 
+Now after installing composer we are going to setup laravel.
+
+Type following command to get laravel installer.
+
+composer global require "laravel/installer"
+
+After it.. you can create a laravel project using below mentioned command.
+
+
+
+
+
